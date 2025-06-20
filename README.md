@@ -1,6 +1,6 @@
 <h1>AgenceX Landing page</h1>
 
-A simple landing page for a digital agency
+A simple landing page for a digital agency - Liveupx.com
 
 ![AgenceX light Theme](./screens/demoLight.webp)
 ![AgenceX Dark Theme](./screens/demoDark.webp)
