@@ -1,4 +1,4 @@
-<h1>AgenceX Landing page</h1>
+<h1>AgenceX Landing page -  Liveupx.com</h1> 
 
 A simple landing page for a digital agency - Liveupx.com
 
